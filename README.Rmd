@@ -3,6 +3,8 @@ title: "README"
 output: html_document
 ---
 
+Ich habe heute zum ersten Mal ein Repo selbst auf GitHub erstellt. Das dient der Hausaufgabe aus dem RSTATSZH-Kurs. 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
